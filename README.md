@@ -47,7 +47,4 @@ string DNS1 = "192.168.1.2";        // DNS 指向旁路由
 
 **Q: 提示找不到编译器？** A: 工具默认调用 Windows 自带的 .NET Framework v4.0.30319，适用于 Win7/Win10/Win11 绝大多数系统。
 
-## 许可证
-
-MIT License
 
